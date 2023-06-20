@@ -5,7 +5,7 @@
   * [About](#about)
   * [Contributors](#contributors)
   * [Outcome](#outcome)
-  * [New methods and experience learnt](#new-methods-and-experience-learnt)
+  * [Experience Gained](#experience-gained)
   * [References](#references)
 
 
@@ -14,7 +14,7 @@
 
 ## About 
 
-This repository contains code to implement and evaluate a Deep-Q Reinforcment Learning Agent to balance a pole on a cart, using the CartPole environment. Detailed explanation of the code is included in the notebook as comments.
+This repository contains code to implement and evaluate a Deep-Q Reinforcement Learning Agent to balance a pole on a cart, using the CartPole environment. Detailed explanation of the code is included in the notebook as comments.
 
 
 ---
