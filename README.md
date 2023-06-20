@@ -14,7 +14,7 @@
 
 ## About 
 
-This repository contains code to implement and evaluate a Deep-Q Reinforcement Learning Agent to balance a pole on a cart, using the CartPole environment. Detailed explanation of the code is included in the notebook as comments.
+This repository contains [code](../main/sc3000_z42_assignment1_JohnKenHisham.ipynb) to implement and evaluate a Deep-Q Reinforcement Learning Agent to balance a pole on a cart, using the CartPole environment. Detailed explanation of the [code](../main/sc3000_z42_assignment1_JohnKenHisham.ipynb) is included in the notebook as comments.
 
 
 ---
@@ -37,7 +37,7 @@ We successfully trained a reinforcement learning agent to achieve a near perfect
 
 We have learned how to use new deep learning frameworks, which include:
 -	keras-rl2
-
+- tensorflow
 
 ---
 ## References
